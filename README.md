@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🌟 Remember
 
-"Make the command line fun again!" - SimpleShell Team 🚀
+"Make the command line fun again!"
 
 ---
 Made with ❤️ by command line enthusiasts, for everyone! 🌈
